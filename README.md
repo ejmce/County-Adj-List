@@ -1,5 +1,5 @@
 # County-Adj-List
-Project done for an application with the DOT. Using C#, Windows forms, and SQL Server
+Project done for an interview project with the DOT. Using C#, Windows forms, and SQL Server
 
 1.	Installations: if not already installed.
   a.	Visual studio code: https://visualstudio.microsoft.com/
